@@ -1,0 +1,7 @@
+{
+    "name": "muluhgodson/MoMo",
+    "description": "Mobile Money Payment with MoMo",
+    "type": "package",
+    "require": {
+    }
+}

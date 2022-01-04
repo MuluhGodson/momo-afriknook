@@ -1,0 +1,10 @@
+{
+    "name": "MoMo Gateway",
+    "namespace": "MG\\MoMo\\",
+    "provider": "MG\\MoMo\\Providers\\MoMoServiceProvider",
+    "author": "Muluh MG Godson",
+    "url": "https://www.linkedin.com/in/muluh-mg-godson/",
+    "version": "0.1",
+    "description": "MoMo API integration for Mobile Money Payments",
+    "require": []
+}
